@@ -1,0 +1,5 @@
+com\zzl\jedis\JedisClientCluster.class
+com\zzl\jedis\JedisClient.class
+com\zzl\sso\service\impl\UserLoginServiceImpl.class
+com\zzl\jedis\JedisClientPool.class
+com\zzl\sso\service\impl\UserRegisterServiceImpl.class

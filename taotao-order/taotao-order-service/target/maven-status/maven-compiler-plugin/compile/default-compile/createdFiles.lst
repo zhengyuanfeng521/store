@@ -1,0 +1,3 @@
+com\zzl\order\service\jedis\JedisClient.class
+com\zzl\order\service\jedis\JedisClientPool.class
+com\zzl\order\service\jedis\JedisClientCluster.class

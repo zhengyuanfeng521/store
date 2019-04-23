@@ -1,0 +1,13 @@
+com\zzl\mapper\Mapper.class
+com\zzl\mapper\TbUserMapper.class
+com\zzl\mapper\TbItemCatMapper.class
+com\zzl\mapper\TbOrderMapper.class
+com\zzl\mapper\TbOrderShippingMapper.class
+com\zzl\mapper\TbItemParamMapper.class
+com\zzl\mapper\TestMapper.class
+com\zzl\mapper\TbItemParamItemMapper.class
+com\zzl\mapper\TbContentCategoryMapper.class
+com\zzl\mapper\TbContentMapper.class
+com\zzl\mapper\TbItemMapper.class
+com\zzl\mapper\TbOrderItemMapper.class
+com\zzl\mapper\TbItemDescMapper.class

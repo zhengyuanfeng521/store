@@ -1,0 +1,4 @@
+com\zzl\search\mapper\SearchItemMapper.class
+com\zzl\search\dao\SearchDao.class
+com\zzl\search\service\impl\SearchServiceImpl.class
+com\zzl\search\listener\ItemChangeMessageListener.class
